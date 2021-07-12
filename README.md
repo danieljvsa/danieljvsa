@@ -1,16 +1,28 @@
-### Hi there 👋
+<img src="" alt="Dashboard"/>
 
-<!--
-**Darko875/Darko875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  🌎 Olá, meu nome é Daniel Sá. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>Back-End</strong>.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Next.js, NodeJS e PHP.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, Vercel, GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Se quiser conversar, não hesite em me enviar uma mensagem.
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-s%C3%A1-332561195/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/daniel-s%C3%A1-332561195/"/>
+  </a>
+  
+  <a href="https://danielviana18@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-GMAIL-1C1C1C?style=for-the-badge&logo=GMAIL&logoColor=00FFFF"/>
+  </a>
+</p>  
+
