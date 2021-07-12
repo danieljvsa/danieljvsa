@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Next.js, NodeJS e PHP.</strong>
+  🦄 Tecnologias: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Next.js, NodeJS, MongoDB, SQL e Firebase.</strong>
 </p>
 
 <p align="left">
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/daniel-s%C3%A1-332561195/"/>
   </a>
   
-  <a href="https://danielviana18@gmail.com" alt="Gmail">
+  <a href="mailto:danielviana18@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-GMAIL-1C1C1C?style=for-the-badge&logo=GMAIL&logoColor=00FFFF"/>
   </a>
 </p>  
