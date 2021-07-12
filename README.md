@@ -1,4 +1,4 @@
-<img src="" alt="Dashboard"/>
+<img src="Data extraction-pana.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Dashboard"/>
 
 <p align="left"> 
   🌎 Olá, meu nome é Daniel Sá. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>Back-End</strong>.
