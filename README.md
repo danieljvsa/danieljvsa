@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Next.js, NodeJS, MongoDB, SQL e Firebase.</strong>
+  🦄 Tecnologias: <strong>HTML, CSS, JavaScript, Typescript, Sass, ReactJS, Next.js, NodeJS, MongoDB, SQL e Firebase.</strong>
 </p>
 
 <p align="left">
