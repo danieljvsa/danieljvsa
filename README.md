@@ -1,19 +1,19 @@
 <img src="Data extraction-pana.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Dashboard"/>
 
 <p align="left"> 
-  🌎 Olá, meu nome é Daniel Sá. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>Back-End</strong>.
+  🌎 Hi, my name is Daniel Sá. I am <strong>Back-End Developer</strong>.
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>HTML, CSS, JavaScript, Typescript, Sass, ReactJS, Next.js, NodeJS, MongoDB, SQL e Firebase.</strong>
+  🦄 Technologies: <strong>HTML, CSS, JavaScript, Typescript, Sass, ReactJS, NextJS, NodeJS, MongoDB, SQL, Firebase, Python, Java, C# and PHP.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Vercel, GitHub.</strong>
+  💼 Tools: <strong>VSCode, Figma, Vercel, GitHub, Docker and Notion.</strong>
 </p>
 
 <p align="left">
-  💌 Se quiser conversar, não hesite em me enviar uma mensagem.
+  💌 If you want to chat, don't hold back and send a message.
 </p>
 
 <p align="left">
