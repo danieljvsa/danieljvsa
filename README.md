@@ -8,7 +8,7 @@
 
 I'm a passionate Back-End Developer based in Porto, Portugal, currently working at [Reckon.ai](https://reckon.ai). I love building scalable web applications and exploring new technologies.
 
-- 🔭 I’m currently working on: [Teltonika Package](https://github.com/danieljvsa/geolocation_server)
+- 🔭 I’m currently working on: [Teltonika Package](https://github.com/danieljvsa/teltonika-go)
 - 🌱 I’m currently learning: [Golang](https://go.dev/)
 - 💬 Ask me about: Back-End Development, APIs, and Coffee Brewing Techniques
 - 📫 How to reach me: [danieljvsa.vercel.app](https://danieljvsa.vercel.app)
